@@ -24,7 +24,8 @@ Are you working on an interesting project? Have you had a major technical breakt
 **Tuesday, April 8**
 - 2:30 - 2:35 pm: **Add your topic here! Example: [topic] - [full name, LinkedIn link]**
 - 2:35 - 2:40 pm: **A Platform to run a Bank on, in 4 simple steps - [Juan Herreros Elorza, https://www.linkedin.com/in/juan-herreros-elorza/] **
-  
+- 2:40 - 2:45 pm: **No more confluence tables: shifting controls compliance left - [Ian Miell, https://www.linkedin.com/in/ianmiell/] **
+
 **Wednesday, April 9**
 - 11:30 - 11:35 am: **Available slot**
 - 11:35 - 11:40 am: **Available slot**
