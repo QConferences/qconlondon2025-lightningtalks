@@ -27,5 +27,5 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 2:40 - 2:45 pm: **No more confluence tables: shifting controls compliance left - [Ian Miell, https://www.linkedin.com/in/ianmiell/] **
 
 **Wednesday, April 9**
-- 11:30 - 11:35 am: **Available slot**
+- 11:30 - 11:35 am: **AI’s Biggest Flaw? The Blinking Cursor Problem** - [Colin Eberhardt](https://www.linkedin.com/in/colin-eberhardt-1464b4a/)
 - 11:35 - 11:40 am: **Available slot**
