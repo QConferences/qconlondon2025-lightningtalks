@@ -28,3 +28,5 @@ Are you working on an interesting project? Have you had a major technical breakt
 **Wednesday, April 9**
 - 11:30 - 11:35 am: **AI’s Biggest Flaw? The Blinking Cursor Problem** - [Colin Eberhardt](https://www.linkedin.com/in/colin-eberhardt-1464b4a/)
 - 11:35 - 11:40 am: **How I accidentally became Fractional using Astro, Supabase & Cloudflare Pages** - [Carlos Blanco](https://www.linkedin.com/in/blancoc/)
+- 14:30 - 14:35 am: *Available slot*
+- 14:35 - 14:40 am: *Available slot*
