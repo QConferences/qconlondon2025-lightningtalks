@@ -29,4 +29,4 @@ Are you working on an interesting project? Have you had a major technical breakt
 - 11:30 - 11:35 am: **AI’s Biggest Flaw? The Blinking Cursor Problem** - [Colin Eberhardt](https://www.linkedin.com/in/colin-eberhardt-1464b4a/)
 - 11:35 - 11:40 am: **How I accidentally became Fractional using Astro, Supabase & Cloudflare Pages** - [Carlos Blanco](https://www.linkedin.com/in/blancoc/)
 - 14:30 - 14:35 pm: **From 50s queries to lighting fast - My epic journey optimizing MongoDB** - [Marios Gavriil](https://www.linkedin.com/in/marios-gavriil/)
-- 14:35 - 14:40 pm: **Github action environment and access management** - [Neelam Mehta] (https://uk.linkedin.com/in/neelam-mehta-7220b319)
+- 14:35 - 14:40 pm: **Github action environment and access management** - [Neelam Mehta](https://uk.linkedin.com/in/neelam-mehta-7220b319)
