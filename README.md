@@ -24,8 +24,8 @@ Are you working on an interesting project? Have you had a major technical breakt
 **Tuesday, April 8**
 - 11:30 - 11:35 am: *Available slot*
 - 11:35 - 11:40 am: *Available slot*
-- 2:30 - 2:35 pm: **A Platform to run a Bank on, in 4 simple steps** - [Juan Herreros Elorza](https://www.linkedin.com/in/juan-herreros-elorza/)
-- 2:35 - 2:40 pm: **No more confluence tables: shifting controls compliance left** - [Ian Miell](https://www.linkedin.com/in/ianmiell/)
+- 14:30 - 14:35 pm: **A Platform to run a Bank on, in 4 simple steps** - [Juan Herreros Elorza](https://www.linkedin.com/in/juan-herreros-elorza/)
+- 14:35 - 14:40 pm: **No more confluence tables: shifting controls compliance left** - [Ian Miell](https://www.linkedin.com/in/ianmiell/)
 
 **Wednesday, April 9**
 - 11:30 - 11:35 am: **AI’s Biggest Flaw? The Blinking Cursor Problem** - [Colin Eberhardt](https://www.linkedin.com/in/colin-eberhardt-1464b4a/)
