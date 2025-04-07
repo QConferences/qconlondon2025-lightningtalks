@@ -22,7 +22,6 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 ## Schedule
 **Tuesday, April 8**
-- 11:30 - 11:35 am: *Available slot*
 - 11:35 - 11:40 am: **Stop doing Big Bang Deployments for your AWS Step Functions** - [Anita Ernszt](https://www.linkedin.com/in/anita-ernszt-339147a6/)
 - 14:30 - 14:35 pm: **A Platform to run a Bank on, in 4 simple steps** - [Juan Herreros Elorza](https://www.linkedin.com/in/juan-herreros-elorza/)
 - 14:35 - 14:40 pm: **No more confluence tables: shifting controls compliance left** - [Ian Miell](https://www.linkedin.com/in/ianmiell/)
